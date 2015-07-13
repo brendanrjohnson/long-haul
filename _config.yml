@@ -1,4 +1,4 @@
-title: Long Haul
+title: Brendan's blog
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://brendanrjohnson.github.io
@@ -19,9 +19,9 @@ navigation:
    url: /contact
 
 social:
-   github: brendanrjohnson
+   github: https://github.com/brendanrjohnson
    twitter: 
-   facebook: brendanrjohnson
+   facebook: https://www.facebook.com/brendan.johnson.722
    email: brendan.r72.johnson@gmail.com
 
 google_analytics: "UA-58263416-1"
